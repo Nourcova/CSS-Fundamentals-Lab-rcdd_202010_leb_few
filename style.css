@@ -3,6 +3,9 @@ body {
   height: 100%;
   margin: 0;
 }
-header,figure,nav{
+header,figure{
  text-align: center;
+}
+a {
+  padding: 10px
 }

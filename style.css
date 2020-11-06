@@ -20,9 +20,11 @@ figcaption{
 }
 #display {
   display: block;
+  float: left
   
 }
 #display div{
   float: left;
+  
 }
 

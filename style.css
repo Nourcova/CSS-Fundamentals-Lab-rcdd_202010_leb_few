@@ -18,8 +18,9 @@ figcaption{
   width:800px;
   text-align: center;
 }
-#display{
+#display div {
   display: block
+  float: right
 }
 #display div{
   float: right

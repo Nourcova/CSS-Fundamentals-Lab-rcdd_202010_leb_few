@@ -21,3 +21,6 @@ figcaption{
 #display{
   display: block
 }
+#display div{
+  float: right
+}
